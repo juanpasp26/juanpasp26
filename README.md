@@ -1,10 +1,10 @@
-# Hi, I'm Juan Pablo 👋
+# Hi, I'm Juan Pablo 
 
 Data Science student at VŠE Prague. I build data models and AI automations.
 
-- 🔧 **Automation:** TypeScript, Trigger.dev, Claude API, n8n
-- 📊 **Data:** SQL, Python (pandas), R, Power BI (DAX), Excel
-- 🌍 Spanish (native), English (C1). Looking for a part-time data or automation role in Prague.
+-  **Automation:** TypeScript, Trigger.dev, Claude API, n8n
+-  **Data:** SQL, Python (pandas), R, Power BI (DAX), Excel
+- Spanish (native), English (C1). Looking for a part-time data or automation role in Prague.
 
 ### Featured
 
